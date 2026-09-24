@@ -25,7 +25,7 @@ catch (ArgumentException ex)
 }
 
 // --- ИМТ ---
-double weight = 70, height = 1.75;
+double weight = 102, height = 1.75;
 
 try
 {
